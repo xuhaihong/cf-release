@@ -474,6 +474,8 @@ properties:
   loggregator_endpoint:
     shared_secret: (( merge ))
 
+  dropsonde: (( merge ))
+
   logger_endpoint: ~
 
   loggregator:
